@@ -1,0 +1,6 @@
+{
+	"require": {
+		"jarouche/viacep": "^0.5.0",
+		"phpmailer/phpmailer": "~6.1"
+	}
+}
