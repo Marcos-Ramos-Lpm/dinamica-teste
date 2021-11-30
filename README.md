@@ -1,1 +1,1 @@
-# aequilibrio-pesquisa
+# Dinamica
